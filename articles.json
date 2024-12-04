@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1733284514384,
+    "title": "My First Article",
+    "content": "This is the content of my first article.",
+    "tags": [
+      "example",
+      "article"
+    ],
+    "createdAt": "2024-12-04T03:55:14.384Z"
+  },
+  {
+    "id": 1733284514385,
+    "title": "My First Article",
+    "content": "This is a test article about programming.",
+    "tags": [
+      "programming",
+      "example"
+    ],
+    "createdAt": "2024-12-04T04:03:22.418Z"
+  },
+  {
+    "id": 1733284514386,
+    "title": "My First Article",
+    "content": "This is a test article about programming.",
+    "tags": [
+      "programming",
+      "example"
+    ],
+    "createdAt": "2024-12-04T04:05:05.850Z"
+  }
+]
